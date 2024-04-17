@@ -1,3 +1,8 @@
+# How to run (on Unix)
+1. Ensure CMake > 3.1 is installed
+2. ./run.sh (this will build all source and run the main.cpp driver that tests out the API)
+NOTE: Extra thoughts can be found in extra_thoughts.txt
+
 # AAC-Clydespace Avionics Software Challenge
 You are given the LIS3MDLTR 3-Axis Magnetometer sensor. The data sheet is
 located at `doc/lism3mdl.pdf`
